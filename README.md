@@ -1,7 +1,7 @@
 ### 👋 Hi, I am Anoop(p4nth3r)
 
 
-I'm Anoop from India, and I am a Cyber Security Enthusiast as well as python developer. Doing graduation from ![lovely professional university](https://www.lpu.in/). 
+I'm Anoop from India, and I am a Cyber Security Enthusiast as well as python developer. Doing graduation from [lovely professional university](https://www.lpu.in/). 
 
 [![p4nth3r github stats](https://github-readme-stats.vercel.app/api?username=p4nth3r-5237)](https://github.com/anuraghazra/github-readme-stats)
 
