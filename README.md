@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### 👋 Hi, I am Anoop(p4nth3r)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +9,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Find me around the world!
+
+- Twitter : [_p4nth3r_](https://twitter.com/_p4nth3r_)
+- LinkedIn : [Anoop Singh Yadav](https://www.linkedin.com/in/anoopyadav5237/)
+- Medium : [@p4nth3r](https://medium.com/@p4nth3r)
 
 ![](https://komarev.com/ghpvc/?username=p4nth3r-5237&color=brightgreen)
